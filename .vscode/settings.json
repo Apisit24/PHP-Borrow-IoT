@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c47eb58e-deda-4c3c-ae5d-0d2fe5e8d1b3/microsoft.web/sites/subscriptions/c47eb58e-deda-4c3c-ae5d-0d2fe5e8d1b3/resourceGroups/cpe301/providers/Microsoft.Web/sites/cpe301-project",
+    "appService.deploySubpath": "."
+}

@@ -1,0 +1,57 @@
+html,
+body {
+height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #970C10;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    /* font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif; */
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formlogin {
+    margin: auto;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}

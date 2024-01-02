@@ -1,0 +1,27 @@
+nav {
+    background-color: #970C10;
+    font-size: 15px;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+
+img.card-img-top {
+    width: 280px;
+    height: 400px;
+    margin: auto;
+    border-radius: 1%;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.container1 {
+    background-color: #970C10;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    height: fit-content;
+    font-family: 'Noto Sans Thai', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
